@@ -100,9 +100,6 @@ In this case as said Halim, Steven and Felix Halim. *"Competitive Programming 3 
 ***"Modern computers are quite fast and can process up to ≈ 100M (or 10^8; 1M = 1, 000, 000) operations in a few seconds"***
 
 In conclusion reprocessing algorithm should be executed less than 1 second :bowtie: :smiley:
-**
-
-
 
 ### The chill example:
 
@@ -208,7 +205,7 @@ Here, will be possible to detect that the word "chili" appears 1 times inside th
 
 # The classes
 
-![classDiagram](classDiagram.png)
+![classDiagram](Images/classDiagram.png)
 
 ## Cell class:
 
