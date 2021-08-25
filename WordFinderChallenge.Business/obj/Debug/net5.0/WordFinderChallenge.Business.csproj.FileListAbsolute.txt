@@ -1,0 +1,12 @@
+E:\deleteme\Qu\WordFinderChallenge\WordFinderChallenge.Business\bin\Debug\net5.0\WordFinderChallenge.Business.deps.json
+E:\deleteme\Qu\WordFinderChallenge\WordFinderChallenge.Business\bin\Debug\net5.0\WordFinderChallenge.Business.dll
+E:\deleteme\Qu\WordFinderChallenge\WordFinderChallenge.Business\bin\Debug\net5.0\ref\WordFinderChallenge.Business.dll
+E:\deleteme\Qu\WordFinderChallenge\WordFinderChallenge.Business\bin\Debug\net5.0\WordFinderChallenge.Business.pdb
+E:\deleteme\Qu\WordFinderChallenge\WordFinderChallenge.Business\obj\Debug\net5.0\WordFinderChallenge.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\deleteme\Qu\WordFinderChallenge\WordFinderChallenge.Business\obj\Debug\net5.0\WordFinderChallenge.Business.AssemblyInfoInputs.cache
+E:\deleteme\Qu\WordFinderChallenge\WordFinderChallenge.Business\obj\Debug\net5.0\WordFinderChallenge.Business.AssemblyInfo.cs
+E:\deleteme\Qu\WordFinderChallenge\WordFinderChallenge.Business\obj\Debug\net5.0\WordFinderChallenge.Business.csproj.CoreCompileInputs.cache
+E:\deleteme\Qu\WordFinderChallenge\WordFinderChallenge.Business\obj\Debug\net5.0\WordFinderChallenge.Business.dll
+E:\deleteme\Qu\WordFinderChallenge\WordFinderChallenge.Business\obj\Debug\net5.0\ref\WordFinderChallenge.Business.dll
+E:\deleteme\Qu\WordFinderChallenge\WordFinderChallenge.Business\obj\Debug\net5.0\WordFinderChallenge.Business.pdb
+e:\deleteme\Qu\WordFinderChallenge\WordFinderChallenge.Business\obj\Debug\net5.0\WordFinderChallenge.Business.csproj.AssemblyReference.cache
